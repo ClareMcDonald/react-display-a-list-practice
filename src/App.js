@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import CandiesList from './CandiesList';
 import CatsList from './CatsList';
