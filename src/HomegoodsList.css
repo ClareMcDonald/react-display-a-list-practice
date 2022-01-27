@@ -1,0 +1,10 @@
+.homegoods-list {
+    background-color: rgb(164, 142, 207);
+    padding: 20px;
+    margin: 10px;
+}
+
+.homegood-item {
+    border: 5px dotted mediumpurple;
+    margin: 10px;
+}

@@ -1,0 +1,12 @@
+.cats-list {
+ background-color: lightslategrey;
+ padding: 20px;
+ margin: 10px;
+}
+
+.cat-item {
+    background-color: lightsteelblue;
+    border: 1px solid lightsteelblue;
+    border-radius: 10px;
+    margin: 5px;
+}
