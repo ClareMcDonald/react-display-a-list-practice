@@ -3,11 +3,13 @@ import './App.css';
 import CandiesList from './CandiesList';
 import CatsList from './CatsList';
 import HomegoodsList from './HomegoodsList';
+import PostsList from './PostsList';
 
 // import your arrays here
 import { candies } from './candies-data';
 import { myCats } from './cats-data';
 import { homegoods } from './homegoods-data';
+import { posts } from './posts-data';
 
 function App() {
   return (
@@ -23,6 +25,10 @@ function App() {
       <div>
         <h3>Home Goods</h3>
         <HomegoodsList homegoods={homegoods} />
+      </div>
+      <div>
+        <h3>Posts</h3>
+        <PostsList posts={posts}/>
       </div>
     </div>
   );
