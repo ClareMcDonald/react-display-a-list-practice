@@ -1,5 +1,6 @@
 import React from 'react';
 import PostReplyItem from './PostReplyItem';
+import './PostsList.css';
 
 export default function PostItem({
   questionProp,

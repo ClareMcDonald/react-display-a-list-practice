@@ -1,6 +1,7 @@
 import React from 'react';
 import { homegoods } from './homegoods-data';
 import PostItem from './PostItem';
+import './PostsList.css';
 
 export default function PostsList(props) {
   return <div className="posts-list">
