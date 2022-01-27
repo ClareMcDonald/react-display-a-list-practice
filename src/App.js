@@ -21,11 +21,9 @@ function App() {
         <CatsList cats={myCats}/>
       </div>
       <div>
-        <h3>Home Goods</h3>
         <HomegoodsList homegoods={homegoods} />
       </div>
       <div>
-        <h3>Posts</h3>
         <PostsList posts={posts}/>
       </div>
     </div>
