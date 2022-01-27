@@ -1,0 +1,11 @@
+.candies-list {
+    border: solid 5px pink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.candy-item {
+    background-color: lightpink;
+  
+}

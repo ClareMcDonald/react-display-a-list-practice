@@ -1,5 +1,6 @@
 import React from 'react';
 import CandyItem from './CandyItem';
+import './CandiesList.css';
 
 export default function CandiesList(props) {
   return <div className="candies-list">
