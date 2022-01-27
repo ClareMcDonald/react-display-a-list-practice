@@ -1,4 +1,5 @@
 import React from 'react';
+import './CatsList.css';
 
 export default function CatItem({
   catName, 

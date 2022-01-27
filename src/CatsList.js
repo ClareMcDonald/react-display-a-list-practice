@@ -1,5 +1,6 @@
 import React from 'react';
 import CatItem from './CatItem';
+import './CatsList.css';
 
 export default function CatsList(props) {
   return <div className="cats-list">

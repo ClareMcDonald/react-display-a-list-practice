@@ -15,11 +15,9 @@ function App() {
   return (
     <div className="App">
       <div>
-        <h3>Candies</h3>
         <CandiesList candies={candies}/>
       </div>
       <div>
-        <h3>Cats</h3>
         <CatsList cats={myCats}/>
       </div>
       <div>
